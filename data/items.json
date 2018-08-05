@@ -1,0 +1,30 @@
+{
+  "items": [
+    {
+      "id": "1",
+      "text": "Купить молока",
+      "completed": true
+    },
+    {
+      "id": "2",
+      "text": "Забрать кота",
+      "completed": false
+    },
+    {
+      "id": "3",
+      "text": "Помыть кота",
+      "completed": true
+    },
+    {
+      "id": "4",
+      "text": "Помыть руки",
+      "completed": false
+    },
+    {
+      "id": "5",
+      "text": "Проснуться",
+      "completed": true
+    }
+  ],
+  "filterVisible": "SHOW_ALL"
+}
