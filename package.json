@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "author": "malyugin.0xff.space",
+  "description": "ToDo app on the React/Redux",
   "license": "MIT",
   "dependencies": {
     "prop-types": "^15.6.2",
